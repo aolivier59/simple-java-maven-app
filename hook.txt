@@ -1,2 +1,2 @@
 tester les hooks
-- hook c59aoli
+- hook c59aoli v2
